@@ -151,6 +151,18 @@ Use Cases
 
 - Data exploration for non‑technical users
 
+What I Learned
+
+- How to build dashboards using AI instead of manual coding
+
+- How to use visual annotations to update UI components
+
+- How to structure AI‑generated code into a real project
+
+- How to design KPIs and charts for business insights
+
+- How to document and present a technical project professionally
+
 Screenshots
 
 <img width="975" height="688" alt="Screenshot 2026-03-23 at 8 49 23 pm" src="https://github.com/user-attachments/assets/e5a81d5f-e0e7-4c36-9ac5-7ae22c112084" />
