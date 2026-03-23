@@ -99,36 +99,32 @@ Skills Demonstrated
 
 - Frontend structure understanding (React + TypeScript)
 
-Architecture
+Folder Structure
 
-CSV Data Upload
-        ↓
-Custom CSV Parser (data.ts)
-        ↓
-Data Transformation (utils.ts)
-        ↓
-Gemini 3 Flash Preview
-(Generates UI + logic)
-        ↓
-React + TypeScript Components
-(Charts, KPIs, Tables)
-        ↓
-Recharts Visualizations
-        ↓
-Interactive Dashboard UI
-
-How to Use
-- Open the live demo
-
-- Upload or use the provided sales CSV
-
-- Explore KPIs and charts
-
-- Filter by product, date, or payment method
-
-- Search transactions in the table
-
-- Export CSV or refresh data
+ai-interactive-dashboard/
+│
+├── src/
+│   ├── components/
+│   │   ├── StatCard.tsx
+│   │   ├── Charts.tsx
+│   │   └── OrderTable.tsx
+│   ├── data.ts
+│   ├── utils.ts
+│   └── App.tsx
+│
+├── data/
+│   └── SalesData.csv
+│
+├── screenshots/
+│   ├── dashboard-overview.png
+│   ├── kpi-cards.png
+│   ├── revenue-trend.png
+│   └── transactions.png
+│
+├── metadata.json
+├── package.json
+├── tsconfig.json
+└── README.md
 
 Project Highlights
 - Built a complete BI dashboard without manually coding the UI
