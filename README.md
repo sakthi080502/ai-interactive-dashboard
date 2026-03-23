@@ -157,7 +157,7 @@ Use Cases
 
 Screenshots
 
-<img width="1684" height="1055" alt="Screenshot 2026-03-23 at 8 35 59 pm" src="https://github.com/user-attachments/assets/b3444cad-1ab1-483a-a2c4-5c406851c9f4" />
+<img width="975" height="688" alt="Screenshot 2026-03-23 at 8 49 23 pm" src="https://github.com/user-attachments/assets/e5a81d5f-e0e7-4c36-9ac5-7ae22c112084" />
 
 <img width="901" height="210" alt="Screenshot 2026-03-23 at 8 44 42 pm" src="https://github.com/user-attachments/assets/30d0774a-386d-4dde-9968-3c1dfeafb6ce" />
 
