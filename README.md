@@ -1,4 +1,5 @@
 AI‑Powered Interactive Sales Analytics Dashboard
+
 An AI‑generated interactive dashboard that visualizes sales data through dynamic charts, KPIs, and real‑time filtering. Built using Google AI Studio, this dashboard automatically processes CSV data and generates a complete analytics interface — including revenue trends, product performance, payment breakdowns, and transaction logs.
 
 This project demonstrates practical skills in data visualization, AI‑assisted development, prompt engineering, and dashboard design.
